@@ -1,2 +1,0 @@
-# JohnGill
-Slack Bot
